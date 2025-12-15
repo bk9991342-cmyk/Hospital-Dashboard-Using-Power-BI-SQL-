@@ -1,2 +1,4 @@
 # Hospital-Dashboard-Using-Power-BI-SQL-
-Built a Hospital Management Dashboard using SQL and Power BI to analyze patient admissions, department performance, and resource utilization, enabling data-driven decisions to improve hospital efficiency and patient care.
+## Project Objective
+The objective of this project is to use SQL for data extraction and analysis and Power BI for visualization to monitor hospital performance, improve operational efficiency, and support data-driven healthcare decisions.
+
