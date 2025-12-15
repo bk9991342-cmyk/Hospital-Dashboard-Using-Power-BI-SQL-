@@ -11,3 +11,5 @@ The objective of this project is to use SQL for data extraction and analysis and
 -  Cleaned and transformed data in Power BI (Power Query).
 -  Built data models and relationships between tables.
 -  Created interactive dashboards with KPIs, charts, and slicers.
+
+## Dashboard
