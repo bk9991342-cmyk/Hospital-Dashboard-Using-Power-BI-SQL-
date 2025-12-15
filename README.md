@@ -20,3 +20,6 @@ The objective of this project is to use SQL for data extraction and analysis and
 -  Admission trends revealed peak periods requiring better staff allocation.
 -  Some departments showed longer average stays, indicating resource bottlenecks.
 -  SQL-based aggregation improved accuracy and performance of analysis.
+
+## Final Conclusion
+By combining SQL for backend data analysis and Power BI for visualization, the Hospital Management Dashboard delivers clear operational insights, enabling hospital management to optimize resources, improve patient flow, and enhance overall healthcare service quality.
