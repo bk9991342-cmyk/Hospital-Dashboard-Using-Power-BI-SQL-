@@ -14,3 +14,9 @@ The objective of this project is to use SQL for data extraction and analysis and
 
 ## Dashboard
 <a href="https://github.com/bk9991342-cmyk/Hospital-Dashboard-Using-Power-BI-SQL-/blob/main/Hospital%20Management%20Dashboard.png">Dataset</a>
+
+## Project Insights
+-   High-demand departments were clearly identified.
+-  Admission trends revealed peak periods requiring better staff allocation.
+-  Some departments showed longer average stays, indicating resource bottlenecks.
+-  SQL-based aggregation improved accuracy and performance of analysis.
