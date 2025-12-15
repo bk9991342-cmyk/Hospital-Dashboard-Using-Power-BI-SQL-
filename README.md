@@ -4,3 +4,10 @@ The objective of this project is to use SQL for data extraction and analysis and
 
 ## Dataset Used
 <a href="https://github.com/bk9991342-cmyk/Hospital-Dashboard-Using-Power-BI-SQL-/blob/main/Hospital_Management.csv">Data</a>
+
+## Process
+-  Stored hospital data in a SQL database.
+-  Used SQL queries (SELECT) to extract and aggregate data.
+-  Cleaned and transformed data in Power BI (Power Query).
+-  Built data models and relationships between tables.
+-  Created interactive dashboards with KPIs, charts, and slicers.
